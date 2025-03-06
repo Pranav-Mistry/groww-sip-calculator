@@ -14,3 +14,17 @@ This project is a **Systematic Investment Plan (SIP) Calculator** built using **
    ```sh
    git clone https://github.com/your-username/growtask.git
    cd growtask
+
+1.Install Ionic CLI (If Not Installed)
+npm install -g @ionic/cli
+
+2.Navigate to Your Project Folder
+cd growtask
+
+3. Install Dependencies
+npm install
+   
+4.  Run the App (Development Mode)
+ionic serve
+
+   
