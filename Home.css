@@ -1,0 +1,21 @@
+.chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    height: 300px; 
+    width: 100%;
+}
+
+.results {
+    background: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.chart-container canvas {
+    max-width: 100% !important;
+    height: auto !important;
+}
