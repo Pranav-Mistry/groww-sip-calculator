@@ -8,6 +8,12 @@ This project is a **Systematic Investment Plan (SIP) Calculator** built using **
 - Pie chart visualization using Chart.js.
 - Responsive and mobile-friendly.
 
+🛠️ Technologies Used
+Ionic React (UI Framework)
+Capacitor (For native app support)
+Chart.js (For data visualization)
+TypeScript (For better code maintainability)
+
 ## 📦 Installation
 
 1. **Clone the Repository**
