@@ -27,4 +27,8 @@ npm install
 4.  Run the App (Development Mode) :
 ionic serve
 
+5.  Build for Production(Optional) :
+npm run build
+
+
    
